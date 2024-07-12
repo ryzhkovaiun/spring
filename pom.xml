@@ -15,6 +15,9 @@
     </properties>
 
     <packaging>pom</packaging>
+    <modules>
+        <module>SpringContextBank</module>
+    </modules>
 
     <dependencies>
         <dependency>
