@@ -15,6 +15,9 @@
     </properties>
 
     <packaging>pom</packaging>
+    <modules>
+        <module>SpringMVC</module>
+    </modules>
 
     <dependencies>
         <dependency>
